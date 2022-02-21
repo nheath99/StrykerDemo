@@ -1,0 +1,6 @@
+﻿{
+	"stryker-config": {
+		"test-case-filter": "stryker=true",
+		"mutation-level": "Basic"
+	}
+}
